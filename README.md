@@ -12,7 +12,7 @@ Sample input files provided:
 
 The output files for both the sample inputs are provided with this repository. 
  
-# YOLO V8 model files:
+## YOLO V8 model files:
 VideoLabeler-YOLOV8.ipynb uses yonov8n.pt, which is provided with the repository.
 
 The original YOLO V8 model files are available here: https://docs.ultralytics.com/tasks/detect/#models 
